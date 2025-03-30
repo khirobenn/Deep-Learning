@@ -1,3 +1,4 @@
 .vscode/
 env/
 *.keras
+"./Chess piece recognizer"
